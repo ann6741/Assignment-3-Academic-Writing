@@ -1,5 +1,9 @@
-# Assignment-3-Academic-Writing
-
-[TIS_assignment3.pdf](https://github.com/user-attachments/files/24529890/TIS_assignment3.pdf)
-
-- The pdf file above is the assignment 3 (Academic Writing) for class SECP1513. This report focuses on Industries Talk 2 by Ts. Hj. Abdul Alim Bin Abdul Muttalib.
+# Assignment 3:  Academic Writing
+## 💻 Project Title
+-> Project Management and System Development
+## 🎓 Brief Description
+-> This repository contains my reflection and materials for a talk related to technology and information system.
+## 🎯 Objective
+-> To reflect on the insights gained from the speaker’s talk and relate them to the skill sets required in the technology industry.
+## 📁 Deliverables
+-> Report (.pdf)
